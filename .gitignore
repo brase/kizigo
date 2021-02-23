@@ -1,0 +1,75 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# PlatformIo
+.pioenvs
+.piolibdeps
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.pio/build/project.checksum
+.pio/build/odroid_esp32/.sconsign37.dblite
+.pio/build/odroid_esp32/firmware.bin
+.pio/build/odroid_esp32/firmware.elf
+.pio/build/odroid_esp32/partitions.bin
+.pio/libdeps/odroid_esp32/MQTT/.editorconfig
+.pio/libdeps/odroid_esp32/MQTT/.gitignore
+.pio/libdeps/odroid_esp32/MQTT/.piopm
+.pio/libdeps/odroid_esp32/MQTT/.travis.yml
+.pio/libdeps/odroid_esp32/MQTT/CMakeLists.txt
+.pio/libdeps/odroid_esp32/MQTT/library.properties
+.pio/libdeps/odroid_esp32/MQTT/LICENSE.md
+.pio/libdeps/odroid_esp32/MQTT/Makefile
+.pio/libdeps/odroid_esp32/MQTT/README.md
+.pio/libdeps/odroid_esp32/MQTT/examples/AdafruitHuzzahESP8266/AdafruitHuzzahESP8266.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/AdafruitHuzzahESP8266Secure/AdafruitHuzzahESP8266Secure.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ArduinoEthernetShield/ArduinoEthernetShield.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ArduinoMKRGSM1400/ArduinoMKRGSM1400.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ArduinoMKRGSM1400Secure/ArduinoMKRGSM1400Secure.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ArduinoWiFi101/ArduinoWiFi101.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ArduinoWiFi101Secure/ArduinoWiFi101Secure.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ArduinoWiFiShield/ArduinoWiFiShield.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ArduinoYun/ArduinoYun.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ArduinoYunSecure/ArduinoYunSecure.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ESP32DevelopmentBoard/ESP32DevelopmentBoard.ino
+.pio/libdeps/odroid_esp32/MQTT/examples/ESP32DevelopmentBoardSecure/ESP32DevelopmentBoardSecure.ino
+.pio/libdeps/odroid_esp32/MQTT/src/MQTT.h
+.pio/libdeps/odroid_esp32/MQTT/src/MQTTClient.cpp
+.pio/libdeps/odroid_esp32/MQTT/src/MQTTClient.h
+.pio/libdeps/odroid_esp32/MQTT/src/lwmqtt/client.c
+.pio/libdeps/odroid_esp32/MQTT/src/lwmqtt/helpers.c
+.pio/libdeps/odroid_esp32/MQTT/src/lwmqtt/helpers.h
+.pio/libdeps/odroid_esp32/MQTT/src/lwmqtt/lwmqtt.h
+.pio/libdeps/odroid_esp32/MQTT/src/lwmqtt/packet.c
+.pio/libdeps/odroid_esp32/MQTT/src/lwmqtt/packet.h
+.pio/libdeps/odroid_esp32/MQTT/src/lwmqtt/string.c
